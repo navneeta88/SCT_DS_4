@@ -1,0 +1,45 @@
+ID,Source,Severity,Start_Time,Start_Lat,Start_Lng,Road_Condition,Weather_Condition,Sunrise_Sunset,Traffic_Signal
+A-1,Source2,2,2023-08-10 14:30:00,47.6062,-122.3321,Dry,Clear,Day,False
+A-2,Source2,3,2023-09-05 18:00:00,42.3601,-71.0589,Wet,Rain,Day,True
+A-3,Source2,2,2023-10-20 11:00:00,33.4484,-112.0740,Dry,Fair,Day,False
+A-4,Source2,4,2022-12-01 22:15:00,39.7392,-104.9903,Snow,Snow,Night,False
+A-5,Source2,2,2023-05-15 16:45:00,30.2672,-97.7431,Dry,Cloudy,Day,True
+A-6,Source2,3,2023-03-22 07:30:00,36.1627,-86.7816,Wet,Light Rain,Day,True
+A-7,Source2,2,2023-11-11 13:00:00,25.7617,-80.1918,Dry,Clear,Day,False
+A-8,Source2,4,2023-01-08 02:30:00,44.9778,-93.2650,Icy,Freezing Rain,Night,False
+A-9,Source2,2,2023-06-19 19:00:00,32.7157,-117.1611,Dry,Fair,Day,False
+A-10,Source2,3,2022-10-30 20:00:00,38.9072,-77.0369,Wet,Rain,Night,True
+A-11,Source2,2,2023-04-25 10:20:00,29.9511,-90.0715,Dry,Mostly Cloudy,Day,False
+A-12,Source2,3,2023-08-14 09:00:00,37.7749,-122.4194,Dry,Fog,Day,True
+A-13,Source2,4,2023-02-02 00:45:00,61.2181,-149.9003,Snow,Light Snow,Night,False
+A-14,Source2,2,2023-07-28 17:10:00,34.0522,-118.2437,Dry,Clear,Day,True
+A-15,Source2,3,2022-11-20 23:00:00,41.2565,-95.9345,Dry,Clear,Night,False
+A-16,Source2,2,2023-09-01 15:00:00,45.5051,-122.6750,Dry,Fair,Day,False
+A-17,Source2,4,2023-01-27 06:20:00,42.3314,-83.0458,Icy,Sleet,Night,True
+A-18,Source2,2,2023-05-03 12:45:00,39.9526,-75.1652,Dry,Cloudy,Day,True
+A-19,Source2,3,2023-12-10 16:00:00,40.4406,-79.9959,Wet,Light Rain,Day,False
+A-20,Source2,2,2023-08-22 21:00:00,21.3069,-157.8583,Dry,Clear,Night,False
+A-21,Source2,3,2023-02-18 13:10:00,40.7128,-74.0060,Wet,Rain,Day,True
+A-22,Source2,2,2023-04-04 14:00:00,33.7490,-84.3880,Dry,Fair,Day,False
+A-23,Source2,4,2022-11-30 03:30:00,41.8781,-87.6298,Snow,Snow,Night,False
+A-24,Source2,2,2023-06-07 11:30:00,32.7767,-96.7970,Dry,Clear,Day,True
+A-25,Source2,3,2023-10-12 08:45:00,38.6270,-90.1994,Dry,Fog,Day,False
+A-26,Source2,2,2023-07-01 20:20:00,29.4241,-98.4936,Dry,Clear,Night,False
+A-27,Source2,4,2023-01-15 18:00:00,43.0731,-89.4012,Snow,Light Snow,Night,True
+A-28,Source2,2,2023-09-17 10:00:00,43.6150,-116.2023,Dry,Fair,Day,False
+A-29,Source2,3,2023-05-29 15:50:00,35.4676,-97.5164,Wet,Thunderstorm,Day,True
+A-30,Source2,2,2022-12-25 14:00:00,40.2672,-83.0010,Dry,Cloudy,Day,False
+A-31,Source2,3,2023-03-03 19:45:00,44.0800,-103.2310,Dry,Clear,Night,False
+A-32,Source2,2,2023-08-08 12:00:00,35.2271,-80.8431,Dry,Fair,Day,True
+A-33,Source2,4,2023-02-20 01:00:00,39.0997,-94.5786,Icy,Ice Pellets,Night,False
+A-40,Source2,2,2023-11-05 13:20:00,27.9506,-82.4572,Dry,Fair,Day,False
+A-41,Source2,3,2023-01-29 08:00:00,35.1495,-90.0490,Wet,Light Rain,Day,True
+A-42,Source2,2,2023-06-23 16:15:00,38.2527,-85.7585,Dry,Cloudy,Day,True
+A-43,Source2,4,2022-12-09 23:50:00,46.7296,-117.1797,Snow,Snow,Night,False
+A-44,Source2,2,2023-07-18 10:45:00,36.7783,-119.4179,Dry,Clear,Day,False
+A-45,Source2,3,2023-09-21 17:30:00,34.2012,-77.8867,Wet,Rain,Day,True
+A-46,Source2,2,2023-04-12 11:00:00,32.2226,-110.9747,Dry,Fair,Day,False
+A-47,Source2,4,2023-01-04 04:00:00,40.7608,-111.8910,Icy,Snow,Night,False
+A-48,Source2,2,2023-08-30 14:55:00,36.0840,-115.1537,Dry,Clear,Day,True
+A-49,Source2,3,2023-10-07 19:10:00,29.7604,-95.3698,Wet,Light Rain,Night,True
+A-50,Source2,2,2023-05-11 09:30:00,47.2529,-122.4443,Dry,Cloudy,Day,False
